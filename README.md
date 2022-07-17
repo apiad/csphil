@@ -20,7 +20,7 @@ What is lacking, of course, is a meaningful connection between those key philoso
 
 Ultimately, I intend this ebook to be formatted in two ways, as a online website, and as PDF/epub file.
 
-The content is writen in Markdown with additional LaTeX formatting where necessary. There is a `makefile` that builds the content into the different formats (wip).
+The content is writen in Markdown with additional LaTeX formatting where necessary. There is a [makefile](makefile) that builds the content into the different formats (wip).
 
 Regarding workflow, I follow a fairly simple model:
 
