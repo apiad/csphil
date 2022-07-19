@@ -21,9 +21,13 @@ You can read all about the design choices in the [Design document](md/design.md)
 
 ## Contributions
 
-All contributions are greatly appreciated, whether it is fixing a typo, suggesting a topic, proof-reading, editing, brainstorming ideas, whatever.
+All contributions are greatly appreciated, whether it is fixing a typo, suggesting a topic, proof-reading, editing, brainstorming ideas, whatever. Here are some of the ways you can participate:
 
-Just open up an issue and let me know how you want to collaborate!
+- If you see something that can be fixed easily (e.g., typos, wrong dates, etc.) just go ahead and open a PR.
+
+- If you want to point out some factual or conceptual mistake that is not as simple as a typo, or doesn't have a clear cut answer, open an [issue](https://github.com/apiad/csphil/issues).
+
+- And if you want to suggest a new topic or otherwise have a more open-ended discussion, then head over to [discussions](https://github.com/apiad/csphil/discussions) and start a conversation.
 
 ### License
 
